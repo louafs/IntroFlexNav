@@ -1,0 +1,23 @@
+{
+  "name": "flexnav",
+  "version": "1.0.0",
+  "description": "just learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync app -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/front-end-foundations/FlexNav.git"
+  },
+  "author": "Louisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/front-end-foundations/FlexNav/issues"
+  },
+  "homepage": "https://github.com/front-end-foundations/FlexNav#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.11",
+    "prettier": "^2.8.4"
+  }
+}
